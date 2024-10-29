@@ -6,7 +6,7 @@ This JavaScript bookmarklet checks if the current page is an Imgur URL, collects
 Usage
 -----
 
-1.  **Copy the bookmarklet code** provided below, changing YOURUSERNAME to ... your username.
+1.  **Copy the bookmarklet code** provided above in one-liner bookmarklet form, changing YOURUSERNAME to ... your username.
 2.  **Create a new bookmark** in your browser, and paste the code into the URL field.
 3.  **Name the bookmark** to make it easily identifiable, such as "Imgur Favorites Cleaner."
 4.  Navigate to Imgur and log in to view your favorite images.
